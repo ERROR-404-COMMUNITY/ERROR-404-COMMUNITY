@@ -59,7 +59,7 @@ Comunidad dedicada a la enseñanza del uso de la shell linux desde el sistema op
 <h3 align="center"> 🔥 Lenguajes más usados 🔥</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERROR-404-COMMUNITY&layout=compact&langs_count=6&text_color=31ff0d&icon_color=FF0000&color=0,424242,000000,424242&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERROR-404-COMMUNITY&layout=compact&langs_count=6&text_color=31ff0d&icon_color=FF0000&color=0,000000&theme=dark">
 </p>
 
 <h3 align="center"> 🏆Logros 🏆</h3>

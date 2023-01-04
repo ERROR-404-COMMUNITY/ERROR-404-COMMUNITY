@@ -33,8 +33,8 @@ Comunidad dedicada a la enseñanza del uso de la shell linux desde el sistema op
 </details>
 
 ---
-
 <p align="center">
+<a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ERROR-404-COMMUNITY&show_icons=true&theme=dark&locale=es&cache_seconds=2500&show_border=true&icon_color=31ff0d&title_color=FF0000&bg_color=101010&include_all_commits=true"></a>
 <a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ERROR-404-COMMUNITY&show_icons=true&theme=dark&locale=es&show_border=true&icon_color=31ff0d&title_color=FF0000&bg_color=101010&include_all_commits=true"></a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ERROR-404-COMMUNITY&theme=dark">
 </p>

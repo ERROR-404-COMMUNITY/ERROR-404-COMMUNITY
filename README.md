@@ -39,12 +39,6 @@ Comunidad dedicada a la enseñanza del uso de la shell linux desde el sistema op
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ERROR-404-COMMUNITY&theme=dark">
 </p>
 
-<h3 align="center"> 🛠️ Herramientas sugeridas 🛠️ </h3>
-
-<a href="https://github.com/ERROR-404-COMMUNITY/TOR-4-0-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERROR-404-COMMUNITY&repo=TOR-4-0-4&show_icons=true&theme=dark&locale=es&show_border=true&icon_color=31ff0d&title_color=B60909&color=101010"></a>
-<a href="https://github.com/ERROR-404-COMMUNITY/LogTmux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERROR-404-COMMUNITY&repo=LogTmux&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=B60909&color=101010"></a>
-<a href="https://github.com/ERROR-404-COMMUNITY/Mask-URL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERROR-404-COMMUNITY&repo=Mask-URL&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=B60909&color=101010"></a>
-
 <h3 align="center"> 🔰 Lenguajes de programación  🔰</h3>
 
 ---
@@ -55,12 +49,6 @@ Comunidad dedicada a la enseñanza del uso de la shell linux desde el sistema op
 * [x] Python
 
 ---
-
-<h3 align="center"> 🔥 Lenguajes más usados 🔥</h3>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERROR-404-COMMUNITY&layout=compact&langs_count=6&text_color=31ff0d&icon_color=FF0000&color=0000&theme=dark">
-</p>
 
 <h3 align="center"> 🏆Logros 🏆</h3>
 
